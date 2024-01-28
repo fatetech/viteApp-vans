@@ -1,5 +1,4 @@
 import React from 'react'
-import Home from './Home'
 import { Link } from 'react-router-dom'
 import bgImg from '../assets/about-hero.png'
 import Nav from '../components/VansComponent/Nav'
