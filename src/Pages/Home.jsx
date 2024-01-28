@@ -4,7 +4,7 @@ import Nav from '../components/VansComponent/Nav'
 
 const Home = () => {
   return (
-   <div className="container">
+   <div>
     <Nav/>
     <div className="home-container">
         <h1>You got the travel plans, we got the travel vans.</h1>
